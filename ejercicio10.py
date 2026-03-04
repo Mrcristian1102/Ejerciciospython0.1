@@ -1,0 +1,5 @@
+edad = int(input("Cuantos años tiene :"))
+if edad >= 18:
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
